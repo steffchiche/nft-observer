@@ -1,0 +1,10 @@
+.collection-row {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	cursor: pointer;
+}
+
+.collection-row:hover {
+	background-color: #6e7777;
+}

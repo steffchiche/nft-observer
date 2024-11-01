@@ -55,7 +55,7 @@ const styles = {
 
 const AppHeader = () => {
 	// App Title
-	const dappTitleText = 'WEB3DAPP'
+	const dappTitleText = 'NFT OBSERVER'
 
 	// Navigation Pages
 	const pages = [

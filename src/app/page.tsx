@@ -1,3 +1,5 @@
+import '../components/styles/home.css'
+
 import { Paper, Typography } from '@mui/material'
 import type { Metadata } from 'next'
 
